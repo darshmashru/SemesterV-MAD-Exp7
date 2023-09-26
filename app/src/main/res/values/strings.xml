@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">MAD Experiment 7</string>
+    <string name="appointment_reservation_application">Appointment / Reservation Application</string>
+    <string name="appointment_reservation_application_confirmation">Appointment / Reservation Confirmation</string>
+    <string name="date_selection">Step 1: Select a Date</string>
+    <string name="confirmation_text">Confirm Appointment / Reservation</string>
+    <string name="date_picker">Date Picker</string>
+    <string name="greeting_text">Hello, When would you like to schedule your appointment/reservation?</string>
+    <string name="time_text">Step 2: Select a Time</string>
+    <string name="time_picker">Time Picker</string>
+    <string name="greeting_text2">Your appointment / reservation has been confirmed for the following Date and Time:</string>
+    <string name="sample">Sample</string>
+    <string name="back">Back</string>
 </resources>
